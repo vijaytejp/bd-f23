@@ -11,6 +11,6 @@
 
 ### Student Repos
 
-Dr. Smith - https://github.com/prof-tcsmith/Introduction/edit/main/README.md
+Dr. Smith - https://github.com/prof-tcsmith/Introduction
 
 <add your line here>
