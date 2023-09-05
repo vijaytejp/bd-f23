@@ -6,7 +6,7 @@
 
 1. In your personal GitHub account, create a repository called Introduction
 2. In this repository, add a README.md file that introduces yourself. Include your name, a picture, and a brief bio.
-3. Once you have done this, then you will initiate a pull request to add your name and a link to your repository in the list below. I've provided an example for Dr. Smith.
+3. Once you have done this, then you will initiate a pull request to the class repo to add your name and a link to your repository in the list below. I've provided an example for Dr. Smith. 
 
 
 ### Student Repos
