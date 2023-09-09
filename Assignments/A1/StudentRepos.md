@@ -18,3 +18,5 @@ GA - https://github.com/SriKumarDundigalla/Introduction
 Sai Vinay Thattukolla - https://github.com/saivinay111234/Introduction
 
 yeswanth chamarthy : https://github.com/chyeswanth/Introduction
+
+Penchala Akshay Kumar Kandagaddala - https://github.com/pk1akshay/Introduction
