@@ -19,4 +19,4 @@ Sai Vinay Thattukolla - https://github.com/saivinay111234/Introduction
 
 yeswanth chamarthy : https://github.com/chyeswanth/Introduction
 
-Srikanth : https://github.com/srikanth-kl/Introduction
+ Lakshmi Srikanth : https://github.com/srikanth-kl/Introduction
