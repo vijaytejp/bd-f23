@@ -13,7 +13,7 @@
 
 Dr. Smith - https://github.com/prof-tcsmith/Introduction
 
-<<<<<<< HEAD
+
 <add your line here>
 
 =======
