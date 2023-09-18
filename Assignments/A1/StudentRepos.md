@@ -13,10 +13,6 @@
 
 Dr. Smith - https://github.com/prof-tcsmith/Introduction
 
-
-<add your line here>
-
-=======
 GA - https://github.com/SriKumarDundigalla/Introduction
 
 Sai Vinay Thattukolla - https://github.com/saivinay111234/Introduction
