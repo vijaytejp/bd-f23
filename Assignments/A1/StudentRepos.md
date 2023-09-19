@@ -30,3 +30,5 @@ Penchala Akshay Kumar Kandagaddala - https://github.com/pk1akshay/Introduction
 Meghanjali Chennupati : https://github.com/Anjali-16/Introduction
 
 Sri Venkata Likhitha Duggi : https://github.com/Likhitha-Duggi/Introduction
+
+Akshay Kumar Reddy Nalla : https://github.com/AkyReddy03/Introduction
