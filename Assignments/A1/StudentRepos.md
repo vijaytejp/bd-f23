@@ -64,3 +64,6 @@ Mounica Pothureddy : https://github.com/MounicaAnju/Introduction
 Nagulapalli Venkata Satya Naveen : https://github.com/nagulapallinaveen/Introduction
 
 Swathi Banna https://github.com/swathi-banna/Introduction.git
+
+Vijaya Lakshmi Kalpana Potti : https://github.com/VijayaLakshmiKalpanaPotti/Introduction
+
