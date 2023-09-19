@@ -24,3 +24,6 @@ Aripaka Veera Mukesh : https://github.com/mukesh0005/Introduction
 Siva Krishna Reddy Golamari - https://github.com/SivaKrishnaReddyGolamari/Introduction
 
 Andrew Scott - https://github.com/saltyscott0521/Introduction
+
+Penchala Akshay Kumar Kandagaddala - https://github.com/pk1akshay/Introduction
+
