@@ -60,3 +60,5 @@ Shambhavi Mishra : https://github.com/Shambhavi1529/Introduction
 Haritha Karna - https://github.com/KARNAHARITHA/Introduction.git
 
 Mounica Pothureddy : https://github.com/MounicaAnju/Introduction
+
+Nagulapalli Venkata Satya Naveen : https://github.com/nagulapallinaveen/Introduction
