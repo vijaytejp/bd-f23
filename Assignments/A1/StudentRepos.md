@@ -74,3 +74,5 @@ Akhil Sura - https://github.com/akhilsura28/Introduction
 Manoj Arasada : https://github.com/manoj-arasada/Introduction
 
 Krishnasai Chaluvadi : https://github.com/KrishnaKSD3004/Introduction
+
+ShreyaReddy Vurelly : https://github.com/shreya-vurelly/Introduction
