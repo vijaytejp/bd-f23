@@ -42,3 +42,5 @@ Aarsha Joji : https://github.com/aarsha-777/Introduction
 Shashank Rao Gujja : https://github.com/Shashank-rao99/Introduction
 
 Bhanu Prakash Konda :   https://github.com/kbp753/Introduction.git
+
+Gopi Chand Yenikapalli : https://github.com/GopiChandYenikapalli/Introduction
