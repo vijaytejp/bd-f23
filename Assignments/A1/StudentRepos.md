@@ -50,3 +50,5 @@ Rayapati Keerthi: https://github.com/Rayapati529/Introduction
 Kushal Reddy : https://github.com/kushalreddy1111/Introduction
 
 Akhil Ankireddypalli - https://github.com/Akhil8778/Introduction
+
+Yogesh Savirigana : https://github.com/YogeshSavirigana/Introduction
